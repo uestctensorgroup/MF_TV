@@ -2,7 +2,7 @@
  Tensor completion using total variation and low-rank matrix factorization
 ***************************************************************************
 
-Copyright:  Teng_Yu Ji, Ting-Zhu Huang*, Xi-Le Zhao, Tian-Hui Ma, Gang Liu. 
+Copyright:  Teng-Yu Ji, Ting-Zhu Huang*, Xi-Le Zhao, Tian-Hui Ma, Gang Liu. 
 
 1). Get Started
     run Demo
