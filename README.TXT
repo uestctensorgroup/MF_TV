@@ -36,13 +36,15 @@ Please cite our paper listed in the following BibTex if you use any part of our 
      }
 
  (3)    
-      @article{JiangFramelet,
-      title={Matrix factorization for low-rank tensor completion using framelet prior},
-      author={Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Ji, Teng-Yu and Deng, Liang-Jian},
-      journal={Information Sciences},
-      year={2017},
-      note={Accepted}
-      }
+         @article{jiang2018matrix,
+     title={Matrix factorization for low-rank tensor completion using framelet prior},
+     author={Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Ji, Teng-Yu and Deng, Liang-Jian},
+     journal={Information Sciences},
+     volume={436},
+     pages={403--417},
+     year={2018},
+     publisher={Elsevier}
+   }
 
     
 
